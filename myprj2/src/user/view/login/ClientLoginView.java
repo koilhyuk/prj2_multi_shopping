@@ -19,7 +19,7 @@ public class ClientLoginView extends JFrame {
 	private JPasswordField jpfPw;
 	private JButton jbtLogin, jbtBLogin, jbtJoin, jbtfound;
 
-	public static final String USER_FILE_PATH = "C:/Users/SAMSUNG/AppData/Roaming/SPB_Data/git/prj2_shopping/myprj2/src/user/img";
+	public static final String USER_FILE_PATH = "C:/Users/SAMSUNG/AppData/Roaming/SPB_Data/git/prj2_multi_shopping/myprj2/src/user/img";
 
 	public ClientLoginView() {
 		super("·Î±×ÀÎ");
